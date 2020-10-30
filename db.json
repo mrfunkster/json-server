@@ -1,4 +1,4 @@
-[
+{
     {
         "id": 1,
         "name": "iPhone X",
@@ -20,4 +20,4 @@
         "image": "/images/products/iphone.png",
         "quantity": 4
     }
-]
+}
