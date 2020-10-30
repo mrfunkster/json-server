@@ -52,16 +52,5 @@
         "type": "phone",
         "image": "/images/products/ipad.png",
         "quantity": 3
-    },
-
-    {
-        "id": 6,
-        "name": "iPhone 6",
-        "description": "This is iPhone 6",
-        "capacity": 16,
-        "price": 200,
-        "type": "phone",
-        "image": "/images/products/iphone.png",
-        "quantity": 6
     }
 ]
