@@ -1,23 +1,25 @@
 {
-    {
-        "id": 1,
-        "name": "iPhone X",
-        "description": "This is iPhone X",
-        "capacity": 64,
-        "price": 500,
-        "type": "phone",
-        "image": "/images/products/ipad.png",
-        "quantity": 7
-    },
+    data:[
+        {
+            "id": 1,
+            "name": "iPhone X",
+            "description": "This is iPhone X",
+            "capacity": 64,
+            "price": 500,
+            "type": "phone",
+            "image": "/images/products/ipad.png",
+            "quantity": 7
+        },
 
-    {
-        "id": 2,
-        "name": "iPhone Xs",
-        "description": "This is iPhone Xs",
-        "capacity": 128,
-        "price": 1500,
-        "type": "phone",
-        "image": "/images/products/iphone.png",
-        "quantity": 4
-    }
+        {
+            "id": 2,
+            "name": "iPhone Xs",
+            "description": "This is iPhone Xs",
+            "capacity": 128,
+            "price": 1500,
+            "type": "phone",
+            "image": "/images/products/iphone.png",
+            "quantity": 4
+        } 
+    ]
 }
