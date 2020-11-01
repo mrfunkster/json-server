@@ -21,28 +21,6 @@
             "type": "phone",
             "image": "/images/products/iphone.png",
             "quantity": 4
-        },
-        
-        {
-            "id": 3,
-            "name": "iPhone 12 Pro Max",
-            "description": "This is iPhone 12 Pro Max",
-            "capacity": 256,
-            "price": 2400,
-            "type": "phone",
-            "image": "/images/products/ipad.png",
-            "quantity": 9
-        },
-        
-        {
-            "id": 4,
-            "name": "iPhone 7",
-            "description": "This is iPhone 7",
-            "capacity": 64,
-            "price": 250,
-            "type": "phone",
-            "image": "/images/products/iphone.png",
-            "quantity": 5
         }
     ]
 }
