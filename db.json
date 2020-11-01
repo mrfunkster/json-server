@@ -43,17 +43,6 @@
             "type": "phone",
             "image": "/images/products/iphone.png",
             "quantity": 5
-        },
-
-        {
-            "id": 5,
-            "name": "iPhone 4",
-            "description": "This is iPhone 4",
-            "capacity": 8,
-            "price": 70,
-            "type": "phone",
-            "image": "/images/products/ipad.png",
-            "quantity": 3
         }
     ]
 }
