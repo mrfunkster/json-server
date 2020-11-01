@@ -43,7 +43,6 @@
             "type": "phone",
             "image": "/images/products/iphone.png",
             "quantity": 5
-        },
-
+        }
     ]
 }
