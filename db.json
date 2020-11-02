@@ -1,5 +1,16 @@
 {
-    "purchaseInfo": [],
+    "purchaseInfo": [
+    {
+            "id": 1,
+            "name": "iPhone X",
+            "description": "This is iPhone X",
+            "capacity": 64,
+            "price": 500,
+            "type": "phone",
+            "image": "/images/products/ipad.png",
+            "quantity": 7
+        }
+    ],
     "products": [
         {
             "id": 1,
